@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Day8LINQ/1.0.0": {
+        "dependencies": {
+          "LINQLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Day8LINQ.dll": {}
+        }
+      },
+      "LINQLibrary/1.0.0": {
+        "runtime": {
+          "LINQLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day8LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
